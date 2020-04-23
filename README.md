@@ -11,5 +11,5 @@ Genutzte Technologien:
  
 Inhalt:
 
-/docs: Dokumentation des Projektes
-/src: Code
+- /docs: Dokumentation des Projektes
+- /src: Code
