@@ -1,0 +1,2 @@
+# Hochbeet
+Temperaturmessung im Hochbeet
