@@ -1,7 +1,6 @@
 # Hochbeet
-Temperaturmessung im Hochbeet
-
-Die Generator-Schaltung misst die Temperatur im Frühbeetkasten des Hochbeetes auf der Oberfläche.
+ 
+Messung der Oberflächentemperatur im Frühbeetkasten des Hochbeetes.
 
 Genutzte Technologien:
 
